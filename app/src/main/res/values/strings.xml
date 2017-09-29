@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountDownTimerButton</string>
+
+    <string name="get_sms_code">获取验证码</string>
+    <string name="reget_sms_code">重新发送</string>
+    <string name="reget_sms_code_countdown">重新发送(%s)</string>
+</resources>
